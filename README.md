@@ -1,6 +1,7 @@
  ## Olá 👋
 
 Eu sou o Jaão  Pedro, amante da tecnologia, estou em busca de aprimorar minhas habilidades de desenvolvimento. Sempre aberto a colaborações e aprendizado, estou comprometido em contribuir para a comunidade de desenvolvimento de software.
+
 No momento estou aprendendo Rust, enquanto continuo aprofundando meus conhecimentos em Java. Estou sempre em busca de projetos interessantes para contribuir, seja em projetos pessoais ou em iniciativas de código aberto.
 
 Portfólio: a definir 
