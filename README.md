@@ -8,8 +8,8 @@ Estou sempre aberto a novas oportunidades de colaboração e crescimento.
 
 Portfólio: a definir 
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaoptoaldo&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaoptoaldo&layout=compact&langs_count=8&theme=discord_old_blurple"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaoptoaldo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaoptoaldo&layout=compact&langs_count=8&theme=jolly"/>
 
 
 <div style="display: inline_block"><br>
