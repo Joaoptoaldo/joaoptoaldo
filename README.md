@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
+https://camo.githubusercontent.com/f534ba773c4a549…f69636f6e733d74727565267468656d653d7261646963616c
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
