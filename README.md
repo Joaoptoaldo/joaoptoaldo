@@ -1,6 +1,7 @@
  ## Hi there 👋
 
-<img src="https://camo.githubusercontent.com/70e13c67464894892d1893b31fb0e1e4ef80c7af6d01861e6e7e1b87b4b5615f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d68696768636f6e7472617374" alt="alto contraste" data-canonical-src="https://github-readme-stats.vercel.app/api?username=joaoptoaldo;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=highcontrast" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaoptoaldo&layout=compact&langs_count=8&theme=dracula"/>
+
 [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <div style="display: inline_block"><br>
