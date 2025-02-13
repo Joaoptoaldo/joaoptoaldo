@@ -1,4 +1,10 @@
  ## Olá 👋
+ <h1 align="center">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=03F700&center=true&lines=Hello+world!">
+  </a>
+</h1>
+<p>
 
 Sou João Pedro, um entusiasta da tecnologia. Estou sempre em busca de aprimorar minhas habilidades, explorando novas linguagens e abordagens para criar soluções eficientes e inovadoras.
 
