@@ -1,4 +1,3 @@
- ## Olá 👋
  <h1 align="center">
   <a>
     <img src="https://readme-typing-svg.herokuapp.com?color=03F700&center=true&lines=Hello+world!">
@@ -6,7 +5,7 @@
 </h1>
 <p>
 
-Sou João Pedro, um entusiasta da tecnologia. Estou sempre em busca de aprimorar minhas habilidades, explorando novas linguagens e abordagens para criar soluções eficientes e inovadoras.
+Olá👋, sou João Pedro, um entusiasta da tecnologia. Estou sempre em busca de aprimorar minhas habilidades, explorando novas linguagens e abordagens para criar soluções eficientes e inovadoras.
 
 Atualmente, estou me aprofundando em Rust, enquanto continuo expandindo meus conhecimentos em Java. Tenho grande interesse em contribuir para projetos interessantes, seja no desenvolvimento de iniciativas pessoais ou na colaboração com a comunidade de código aberto. Acredito que a troca de conhecimento e o aprendizado contínuo são essenciais para a evolução na área de tecnologia.
 
