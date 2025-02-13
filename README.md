@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joaoptoaldo.joaoptoaldo">
  <h1 align="center">
   <a>
     <img src="https://readme-typing-svg.herokuapp.com?color=03F700&center=true&lines=Hello+world!">
