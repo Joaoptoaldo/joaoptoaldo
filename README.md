@@ -7,7 +7,7 @@
 
 Olá👋, sou João Pedro, um entusiasta da área de TI. Estou sempre em busca de aprimorar minhas habilidades, explorando novas linguagens e abordagens para criar soluções eficientes e inovadoras.
 
-Atualmente estou me aprofundando em Rust, enquanto continuo expandindo meus conhecimentos em Java. Tenho grande interesse em contribuir para projetos interessantes, seja no desenvolvimento de iniciativas pessoais ou na colaboração com a comunidade de código aberto. Acredito que a troca de conhecimento e o aprendizado contínuo são essenciais para a evolução na área de tecnologia.
+Atualmente estou me aprofundando em Rust, enquanto continuo expandindo meus conhecimentos em Java. Tenho grande interesse em contribuir para projetos interessantes, seja em projetos pessoais ou em iniciativas de código aberto. Acredito que a troca de conhecimento e o aprendizado contínuo são essenciais para a evolução na área de tecnologia.
 
 Estou sempre aberto a novas oportunidades de colaboração e crescimento.
 
