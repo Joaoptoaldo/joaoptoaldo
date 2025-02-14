@@ -44,7 +44,7 @@ Portfólio: a definir
 
   <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=03F700&center=true&lines=Hello+world!">
+    <img src="https://readme-typing-svg.herokuapp.com?color=03F700&center=true&lines=Olá, sou João Pedro e seja bem vindo ao meu perfil!">
   </a>
 </h1>
   
