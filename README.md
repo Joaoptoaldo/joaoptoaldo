@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF&size=21&duration=6530&center=true&vCenter=true&width=649&lines=Ola+me+chamo+João+Pedro+seja+bem+vindo+ao+meu+perfil!+%3C3)](https://git.io/typing-svg)<br>
  <h1 align="center">
   <a>
     <img src="https://readme-typing-svg.herokuapp.com?color=03F700&center=true&lines=Hello+world!">
