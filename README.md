@@ -2,7 +2,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF&size=21&duration=6530&center=true&vCenter=true&width=649&lines=Olá!+Me+chamo+João+Pedro+e+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)<br>
 
 <p>
-Sou João Pedro, um entusiasta da área de TI. Estou sempre em busca de aprimorar minhas habilidades, explorando novas linguagens e abordagens para criar soluções eficientes e inovadoras.
+Sou um entusiasta da área de TI. Estou sempre em busca de aprimorar minhas habilidades, explorando novas linguagens e abordagens para criar soluções eficientes e inovadoras.
 
 Atualmente estou me aprofundando em Rust, enquanto continuo expandindo meus conhecimentos em Java. Tenho grande interesse em contribuir para projetos interessantes, seja em projetos pessoais ou em iniciativas de código aberto. Acredito que a troca de conhecimento e o aprendizado contínuo são essenciais para a evolução na área de tecnologia.
 
