@@ -8,7 +8,7 @@ Atualmente estou me aprofundando em Rust, enquanto continuo expandindo meus conh
 
 Estou sempre aberto a novas oportunidades de colaboração e crescimento.
 
-Meu Portfólio: https://joaoptoaldo.github.io/portfolio-pessoal/
+
 
 <div align="left">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaoptoaldo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
