@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3150&color=2CB3F7&width=435&lines=Ol%C3%A1!!!+Me+chamo+Jo%C3%A3o+Pedro;E+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3150&pause=1&color=2CB3F7&width=435&lines=Ol%C3%A1!!!+Me+chamo+Jo%C3%A3o+Pedro;E+seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)<br>
 
 
 <div align="left">
