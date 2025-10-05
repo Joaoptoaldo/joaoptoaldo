@@ -1,5 +1,5 @@
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF&size=21&duration=6530&center=true&vCenter=true&width=649&lines=Olá!+Me+chamo+João+Pedro+e+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3100&color=2CB3F7&center=true&width=435&lines=OL%C3%A1!!!;Me+chamo+Jo%C3%A3o+Pedro;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)<br>
 
 
 <div align="left">
