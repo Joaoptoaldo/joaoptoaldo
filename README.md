@@ -25,7 +25,7 @@ Currently improving my experience in backend architecture, APIs, service develop
 <br><br>
 <!-- Skills -->
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nodejs,mongodb,vercel,docker,tailwind,bootstrap,figma,java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nodejs,mongodb,mysql,vercel,docker,tailwind,bootstrap,figma,java,git,github)](https://skillicons.dev)
 
 ##
 
