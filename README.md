@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3150&pause=1&color=2CB3F7&width=435&lines=Hello!!!+My+name+is+Jo%C3%A3o+Pedro;And+welcome+to+my+profile)](https://git.io/typing-svg)<br>
 
-
 About Me
 
 Information Systems student focused on building useful and scalable solutions through software development.
@@ -11,9 +10,32 @@ My main interests are:
 - Process automation
 - Artificial Intelligence applied to real systems
 - CRUD applications with real business value
-- Data processing and ETL workflows
 
 Currently improving my experience in backend architecture, APIs, service development, and applied Artificial Intelligence solutions.
+
+<br>
+
+<details>
+<summary>Versão em Português</summary>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3150&pause=1&color=2CB3F7&width=470&lines=Ol%C3%A1!!!+Meu+nome+%C3%A9+Jo%C3%A3o+Pedro;Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
+
+**Sobre Mim**
+
+Estudante de Sistemas de Informação focado em construir soluções úteis e escaláveis por meio do desenvolvimento de software.
+
+Meus principais interesses são:
+
+- Desenvolvimento Full Stack
+- Automação de processos
+- Inteligência Artificial aplicada a sistemas reais
+- Aplicações CRUD com valor real de negócio
+
+Atualmente, estou aprimorando minha experiência em arquitetura de backend, APIs, desenvolvimento de serviços e soluções com Inteligência Artificial aplicada.
+
+</details>
 
 #
 
@@ -25,7 +47,7 @@ Currently improving my experience in backend architecture, APIs, service develop
 <br><br>
 <!-- Skills -->
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,mongodb,mysql,vercel,docker,tailwind,angular,bootstrap,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,mongodb,mysql,docker,tailwind,angular,bootstrap,java,git)](https://skillicons.dev)
 
 ##
 
