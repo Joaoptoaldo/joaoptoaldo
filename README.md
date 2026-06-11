@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3150&pause=1&color=2CB3F7&width=435&lines=Hello!!!+My+name+is+Jo%C3%A3o+Pedro;And+welcome+to+my+profile)](https://git.io/typing-svg)<br>
 
-About Me
+## About Me
 
 Information Systems student focused on building useful and scalable solutions through software development.
 
@@ -13,10 +13,24 @@ My main interests are:
 
 Currently improving my experience in backend architecture, APIs, service development, and applied Artificial Intelligence solutions.
 
+
+
+## Education & Certifications
+
+| Course / Certification | Institution | Status |
+| :--- | :--- | :--- |
+| **B.Sc. in Information Systems** | UFN (Franciscan University) | In progress |
+| **CS50x — Introduction to Computer Science** | Harvard University / edX | In progress |
+| **Data Engineering & ML Fundamentals** | TOTVS / DIO | Completed |
+
+## Technologies & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,mongodb,mysql,docker,tailwind,angular,vite,java,git)](https://skillicons.dev)
+
 <br>
 
 <details>
-<summary>Versão em Português</summary>
+<summary> <b>Versão em Português (Click to expand)</b></summary>
 
 <br>
 
@@ -35,6 +49,19 @@ Meus principais interesses são:
 
 Atualmente, estou aprimorando minha experiência em arquitetura de backend, APIs, desenvolvimento de serviços e soluções com Inteligência Artificial aplicada.
 
+
+## Educação & Certificações
+
+| Curso / Certificação | Instituição | Status |
+| :--- | :--- | :--- |
+| **Bacharelado em Sistemas de Informação** | UFN (Universidade Franciscana) | Em progresso |
+| **CS50x — Introdução à Ciência da Computação** | Harvard University / edX | Em progresso |
+| **Fundamentos de Engenharia de Dados & ML** | TOTVS / DIO | Concluído |
+
+## Tecnologias & Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,mongodb,mysql,docker,tailwind,angular,vite,java,git)](https://skillicons.dev)
+
 </details>
 
 #
@@ -44,12 +71,7 @@ Atualmente, estou aprimorando minha experiência em arquitetura de backend, APIs
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaoptoaldo&layout=compact&langs_count=8&theme=nightowl"/>
 </div>
 
-<br><br>
-<!-- Skills -->
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,mongodb,mysql,docker,tailwind,angular,bootstrap,java,git)](https://skillicons.dev)
-
-##
+#
 
 <div align="center">
   <a href="https://instagram.com/joaoptoaldo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
