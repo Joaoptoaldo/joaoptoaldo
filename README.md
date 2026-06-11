@@ -25,7 +25,7 @@ Currently improving my experience in backend architecture, APIs, service develop
 
 ## Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,mongodb,mysql,docker,tailwind,angular,vite,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,react,nextjs,nodejs,mongodb,mysql,docker,fastapi,tailwind,vite,git)](https://skillicons.dev)
 
 <br>
 
@@ -36,11 +36,11 @@ Currently improving my experience in backend architecture, APIs, service develop
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3150&pause=1&color=2CB3F7&width=470&lines=Ol%C3%A1!!!+Meu+nome+%C3%A9+Jo%C3%A3o+Pedro;Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
-**Sobre Mim**
+## Sobre Mim
 
 Estudante de Sistemas de Informação focado em construir soluções úteis e escaláveis por meio do desenvolvimento de software.
 
-Meus principais interesses são:
+## Meus principais interesses são:
 
 - Desenvolvimento Full Stack
 - Automação de processos
@@ -60,7 +60,7 @@ Atualmente, estou aprimorando minha experiência em arquitetura de backend, APIs
 
 ## Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,mongodb,mysql,docker,tailwind,angular,vite,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,react,nextjs,nodejs,mongodb,mysql,docker,fastapi,tailwind,vite,git)](https://skillicons.dev)
 
 </details>
 
