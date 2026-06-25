@@ -20,7 +20,7 @@ Currently improving my experience in backend architecture, APIs, service develop
 | Course / Certification | Institution | Status |
 | :--- | :--- | :--- |
 | **B.Sc. in Information Systems** | UFN (Franciscan University) | In progress |
-| **CS50x — Introduction to Computer Science** | Harvard University / edX | In progress |
+| **CS50x — Introduction to Computer Science** | Harvard University / edX | Completed |
 | **Data Engineering & ML Fundamentals** | TOTVS / DIO | Completed |
 
 ## Technologies & Tools
