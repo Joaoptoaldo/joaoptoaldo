@@ -55,7 +55,7 @@ Atualmente, estou aprimorando minha experiência em arquitetura de backend, APIs
 | Curso / Certificação | Instituição | Status |
 | :--- | :--- | :--- |
 | **Bacharelado em Sistemas de Informação** | UFN (Universidade Franciscana) | Em progresso |
-| **CS50x — Introdução à Ciência da Computação** | Harvard University / edX | Em progresso |
+| **CS50x — Introdução à Ciência da Computação** | Harvard University / edX | Concluído |
 | **Fundamentos de Engenharia de Dados & ML** | TOTVS / DIO | Concluído |
 
 ## Tecnologias & Ferramentas
